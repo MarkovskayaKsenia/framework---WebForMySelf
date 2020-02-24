@@ -1,0 +1,45 @@
+[2020-02-09 15:51:43] Текст ошибки: Undefined variable: test | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 57
+=============
+[2020-02-09 15:52:39] Текст ошибки: Undefined variable: test | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 57
+=============================
+[2020-02-09 15:53:43] Текст ошибки: Undefined variable: test | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 57
+=============================
+[2020-02-09 15:58:48] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw.loc\public\test\error\index.php:43
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 43
+=============================
+[2020-02-09 15:59:23] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw.loc\public\test\error\index.php:43
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 43
+=============================
+[2020-02-09 16:01:03] Текст ошибки: set_exception_handler() expects the argument (ErrorHandler::exceptionHandler) to be a valid callback | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 18
+=============================
+[2020-02-09 16:01:03] Текст ошибки: Uncaught Error: Call to undefined function test() in C:\OSPanel\domains\fw.loc\public\test\error\index.php:63
+Stack trace:
+#0 {main}
+  thrown | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 63
+=============================
+[2020-02-09 16:02:38] Текст ошибки: cnhfyhdflhsf;af | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php
+        | Строка: 62
+=============================
+[2020-02-09 16:03:18] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw.loc\public\test\error\index.php:43
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php 
+        | Строка: 43
+=============================
+[2020-02-09 16:04:27] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw.loc\public\test\error\index.php
+        | Строка: 62
+=============================

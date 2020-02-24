@@ -1,0 +1,438 @@
+[2020-02-16 16:57:25] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:57:38] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:57:45] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:57:52] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:58:02] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:58:07] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 16:58:08] Текст ошибки: Метод signupwwwAction не существует в контроллере | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 64
+=============================
+[2020-02-16 17:05:55] Текст ошибки: syntax error, unexpected '}', expecting ',' or ';' | Файл: C:\OSPanel\domains\fw.loc\app\models\User.php
+        | Строка: 18
+=============================
+[2020-02-16 17:59:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-16 18:07:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-16 18:10:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-16 18:35:33] Текст ошибки: syntax error, unexpected 'unset' (T_UNSET) | Файл: C:\OSPanel\domains\fw.loc\app\views\user\signup.php
+        | Строка: 27
+=============================
+[2020-02-16 18:36:27] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: C:\OSPanel\domains\fw.loc\app\views\user\signup.php
+        | Строка: 27
+=============================
+[2020-02-16 18:36:29] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: C:\OSPanel\domains\fw.loc\app\views\user\signup.php
+        | Строка: 27
+=============================
+[2020-02-18 19:21:05] Текст ошибки: syntax error, unexpected '{' | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\libs\Pagination.php
+        | Строка: 42
+=============================
+[2020-02-18 19:22:04] Текст ошибки: syntax error, unexpected '(' | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\libs\Pagination.php
+        | Строка: 59
+=============================
+[2020-02-18 19:29:15] Текст ошибки: compact(): Undefined variable: meta | Файл: C:\OSPanel\domains\fw.loc\app\controllers\MainController.php
+        | Строка: 28
+=============================
+[2020-02-18 19:29:53] Текст ошибки: Call to undefined method fw\libs\Pagination::countPages() | Файл: C:\OSPanel\domains\fw.loc\app\views\Main\index.php
+        | Строка: 26
+=============================
+[2020-02-18 19:36:11] Текст ошибки: syntax error, unexpected '.' | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\libs\Pagination.php
+        | Строка: 79
+=============================
+[2020-02-19 18:06:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:06:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:13:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:14:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:14:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:15:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:19:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:19:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:21:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:24:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:26:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-19 18:36:11] Текст ошибки: Undefined variable: filet | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\base\View.php
+        | Строка: 54
+=============================
+[2020-02-19 18:39:03] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OSPanel\domains\fw.loc\app\controllers\MainController.php
+        | Строка: 25
+=============================
+[2020-02-20 18:54:53] Текст ошибки: key() expects parameter 1 to be array, null given | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\widgets\language\Language.php
+        | Строка: 34
+=============================
+[2020-02-20 18:59:03] Текст ошибки: Undefined variable: properties | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Registry.php
+        | Строка: 21
+=============================
+[2020-02-23 09:41:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:42:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:44:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:46:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:50:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:51:56] Текст ошибки: Call to undefined method fw\widgets\language\Language::getLanguages() | Файл: C:\OSPanel\domains\fw.loc\app\controllers\AppController.php
+        | Строка: 22
+=============================
+[2020-02-23 09:52:17] Текст ошибки: Call to undefined method fw\widgets\language\Language::getLanguages() | Файл: C:\OSPanel\domains\fw.loc\app\controllers\AppController.php
+        | Строка: 22
+=============================
+[2020-02-23 09:52:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:52:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:54:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:54:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:54:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:54:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:55:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:56:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 09:58:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:00:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:01:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:02:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:04:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:09:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:09:20] Текст ошибки: <p>Файл C:\OSPanel\domains\fw.loc/app/views/Language/change.php не существует</p> | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\base\View.php
+        | Строка: 72
+=============================
+[2020-02-23 10:15:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:15:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:16:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 10:17:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 11:22:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 11:36:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 11:40:57] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\fw.loc\app\views\inc\sidebar.php
+        | Строка: 16
+=============================
+[2020-02-23 12:11:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 18:59:49] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 55
+=============================
+[2020-02-23 19:31:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:31:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:15:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:17:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-23 20:18:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw.loc\vendor\fw\core\Router.php
+        | Строка: 49
+=============================
+[2020-02-24 10:51:16] Текст ошибки: syntax error, unexpected ':' | Файл: C:\OSPanel\domains\fw.loc\app\views\admin\User\login.php
+        | Строка: 8
+=============================
+[2020-02-24 11:00:43] Текст ошибки: Class 'R' not found | Файл: C:\OSPanel\domains\fw.loc\app\controllers\admin\MainController.php
+        | Строка: 11
+=============================
